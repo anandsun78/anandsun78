@@ -1,4 +1,4 @@
-# Hi there, I'm Anand Sundaram 👋
+# Hi there, I'm Anand 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anandsun78&color=brightgreen&style=flat-square)
 
