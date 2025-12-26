@@ -6,7 +6,7 @@
 
 - 💻 Software Engineer with 6 years of experience
 - 🏢 Currently working at **Oracle** and previously **Accenture**
-- 🧠 Passionate about competitive programming and full-stack development
+- 🧠 Passionate about full-stack development, AI engineering (agents, tools, workflows) and competitive programming
 
 ## 🛠️ Tech Stack
 
